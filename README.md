@@ -25,7 +25,7 @@ To update this contract code with the latest version:
 # Run from the root directory of this repository
 ./scripts/update-oracle.sh
 ```
-
+.
 ## Existing Deployment
 
 The `rofl.yaml` in this repository defines an existing deployment named `test`
