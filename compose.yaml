@@ -6,7 +6,7 @@ services:
     platform: linux/amd64
     environment:
       # Address of the oracle contract deployed on Sapphire.
-      - CONTRACT_ADDRESS=1234845aaB7b6CD88c7fAd9E9E1cf07638805b20
+      - CONTRACT_ADDRESS=0x2B9Bc108e74628cE9D144d0a9c0972983aaE57dA
       # Ticker.
       - TICKER=ROSEUSDT
     volumes:
